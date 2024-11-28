@@ -1,0 +1,12 @@
+# os  # (Built-in library, does not need to be listed)
+# re  # (Built-in library, does not need to be listed)
+speechrecognition
+torch
+numpy
+# queue  # (Built-in library, does not need to be listed)
+openai
+whisper
+# threading  # (Built-in library, does not need to be listed)
+gtts
+pydub
+python-dotenv
